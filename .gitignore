@@ -49,3 +49,4 @@ analyze
 /logs
 
 data/fs.*
+data/monitoring
