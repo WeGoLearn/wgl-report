@@ -9,6 +9,9 @@
   "jsreport": {
     "entryPoint": "index.js"
   },
+  "engines": {
+    "node": "16.13.0"
+  },
   "dependencies": {
     "dotenv-flow": "^3.2.0",
     "jsreport": "^3.0.1",
