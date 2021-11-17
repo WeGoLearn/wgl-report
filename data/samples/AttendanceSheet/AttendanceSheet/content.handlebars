@@ -2,7 +2,7 @@
     <head>
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <style>
-            {{asset "invoice-styles.css" "utf8"}}
+            {{asset "AttendanceSheet.css" "utf8"}}
         </style>
     </head>
     <body>
@@ -33,7 +33,16 @@
                     </td>
                 </tr>
 
-               
+                <tr>
+                    <td colspan="2" >
+                        {{title}}
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2" style="text-align:center;padding-bottom:12px;">
+                        <b>{{subTitle}}</b>
+                    </td>
+                </tr>
                 <tr class="items">
                     <td>
                         <table>

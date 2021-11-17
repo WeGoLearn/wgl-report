@@ -1,5 +1,5 @@
 {
-  "name": "wgl-jsreport",
+  "name": "wgl-report",
   "main": "index.js",
   "version": "1.0.0",
   "scripts": {

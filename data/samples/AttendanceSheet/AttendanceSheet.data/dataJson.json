@@ -1,6 +1,8 @@
 {
     "createdAt": "10 Novembre 2021",
     "totalHours": 20,
+    "title": "Veuillez trouver ci-dessous le relevé des heures de Mme xxxxx xxxxxxxx du mois xx 2021",
+    "subTitle": "Relevée des heures effectuées en xx 2021",
     "items": [{
         "course": "Lesson 1",
         "date": "12/01/2021",
