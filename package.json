@@ -10,7 +10,7 @@
     "entryPoint": "index.js"
   },
   "engines": {
-    "node": "16.13.0"
+    "node": "16.x"
   },
   "dependencies": {
     "dotenv-flow": "^3.2.0",
