@@ -1,0 +1,25 @@
+{
+    "createdAt": "10 Novembre 2021",
+    "totalHours": 20,
+    "items": [{
+        "course": "Lesson 1",
+        "date": "12/01/2021",
+        "duration": "1h",
+        "hour": "11h10"
+    }, {
+        "course": "Lesson 2",
+        "date": "18/01/2021",
+        "duration": "1h",
+        "hour": "13h10"
+    }, {
+        "course": "Lesson 5",
+        "date": "02/01/2021",
+        "duration": "1h",
+        "hour": "01h10"
+    }, {
+        "course": "Lesson 10",
+        "date": "5/11/2021",
+        "duration": "1h",
+        "hour": "08h10"
+    }]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "AttendanceSheet",
+    "__entitySet": "folders",
+    "__name": "Invoice",
+    "creationDate": {
+        "$$date": 1637186882197
+    },
+    "modificationDate": {
+        "$$date": 1637186882197
+    },
+    "shortid": "a9BsrR0",
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "s7SW1PK2FFVBDFXD",
+    "$entitySet": "folders"
+}

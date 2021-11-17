@@ -1,0 +1,37 @@
+{
+    "recipe": "chrome-pdf",
+    "engine": "handlebars",
+    "data": {
+        "shortid": "-S4Fi_B"
+    },
+    "name": "AttendanceSheet",
+    "chrome": {
+        "printBackground": false,
+        "marginTop": "1cm",
+        "marginRight": "1cm",
+        "marginBottom": "3.1cm",
+        "marginLeft": "1cm",
+        "displayHeaderFooter": false
+    },
+    "creationDate": {
+        "$$date": 1637186882379
+    },
+    "modificationDate": {
+        "$$date": 1637187146905
+    },
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "pdfOperations": [
+        {
+            "type": "merge",
+            "templateShortid": "9RhaECH",
+            "mergeWholeDocument": true
+        }
+    ],
+    "pdfPassword": {
+        "password": "cVSnsrpns8UBK9PwmRHeiFB0BlAqLZej"
+    },
+    "shortid": "sR8fOmc",
+    "_id": "S0vWG5MYnbOeGP90",
+    "$entitySet": "templates"
+}

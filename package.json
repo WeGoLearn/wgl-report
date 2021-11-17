@@ -1,0 +1,17 @@
+{
+  "name": "wgl-jsreport",
+  "main": "index.js",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node .",
+    "jsreport": "jsreport"
+  },
+  "jsreport": {
+    "entryPoint": "index.js"
+  },
+  "dependencies": {
+    "dotenv-flow": "^3.2.0",
+    "jsreport": "^3.0.1",
+    "materialize": "^1.0.0"
+  }
+}
