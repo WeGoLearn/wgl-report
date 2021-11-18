@@ -1,0 +1,14 @@
+{
+    "name": "wgl_api",
+    "password": "sha1$6d979398$1$d656077415b9919f0f45d46112730777dc162a8a",
+    "username": "wgl_api",
+    "creationDate": {
+        "$$date": 1637264595031
+    },
+    "modificationDate": {
+        "$$date": 1637264595031
+    },
+    "shortid": "xse-UFt",
+    "_id": "8gzZ8WnESqnhVuC0",
+    "$entitySet": "users"
+}
