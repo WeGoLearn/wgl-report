@@ -50,3 +50,4 @@ analyze
 
 data/fs.*
 data/monitoring
+**.log
