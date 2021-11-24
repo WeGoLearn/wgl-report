@@ -17,7 +17,7 @@
         "$$date": 1637186882379
     },
     "modificationDate": {
-        "$$date": 1637240667910
+        "$$date": 1637780691385
     },
     "inheritedReadPermissions": [],
     "inheritedEditPermissions": [],
@@ -28,9 +28,7 @@
             "mergeWholeDocument": true
         }
     ],
-    "pdfPassword": {
-        "password": "cVSnsrpns8UBK9PwmRHeiFB0BlAqLZej"
-    },
+    "pdfPassword": null,
     "shortid": "sR8fOmc",
     "_id": "S0vWG5MYnbOeGP90",
     "$entitySet": "templates"
