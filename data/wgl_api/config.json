@@ -6,9 +6,11 @@
         "$$date": 1637264595031
     },
     "modificationDate": {
-        "$$date": 1637264595031
+        "$$date": 1637710302468
     },
     "shortid": "xse-UFt",
     "_id": "8gzZ8WnESqnhVuC0",
-    "$entitySet": "users"
+    "$entitySet": "users",
+    "readAllPermissions": true,
+    "editAllPermissions": true
 }
