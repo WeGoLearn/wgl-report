@@ -1,27 +1,92 @@
 {
-    "createdAt": "10 Novembre 2021",
-    "totalHours": 20,
-    "title": "Veuillez trouver ci-dessous le relevé des heures de Mme xxxxx xxxxxxxx du mois xx 2021",
-    "subTitle": "Relevée des heures effectuées en xx 2021",
-    "items": [{
-        "course": "Lesson 1",
-        "date": "12/01/2021",
-        "duration": "1h",
-        "hour": "11h10"
-    }, {
-        "course": "Lesson 2",
-        "date": "18/01/2021",
-        "duration": "1h",
-        "hour": "13h10"
-    }, {
-        "course": "Lesson 5",
-        "date": "02/01/2021",
-        "duration": "1h",
-        "hour": "01h10"
-    }, {
-        "course": "Lesson 10",
-        "date": "5/11/2021",
-        "duration": "1h",
-        "hour": "08h10"
-    }]
+  "createdAt": "25/11/2021",
+  "totalHours": 17,
+  "title": "Veuillez trouver ci-dessous le relevé des heures de Mme Laurent LeBois du mois Novembre 2021",
+  "subTitle": "Relevé des heures effectué en novembre 2021",
+  "items": [
+    {
+      "course": "Lesson 1: Important things in life",
+      "date": "28/04/2021",
+      "hour": "04:00",
+      "duration": "60 min"
+    },
+    {
+      "course": "Lesson 3: Media",
+      "date": "26/04/2021",
+      "hour": "04:00",
+      "duration": "60 min"
+    },
+    {
+      "course": "Lesson 1",
+      "date": "14/05/2021",
+      "hour": "21:30",
+      "duration": "60 min"
+    },
+    {
+      "course": "Lesson 2: What should I do ?",
+      "date": "05/06/2021",
+      "hour": "07:30",
+      "duration": "60 min"
+    },
+    {
+      "course": "Lesson 4: What were you doing….. ?",
+      "date": "05/06/2021",
+      "hour": "09:00",
+      "duration": "60 min"
+    },
+    {
+      "course": "Lesson 2: What should I do ?",
+      "date": "05/06/2021",
+      "hour": "11:00",
+      "duration": "60 min"
+    },
+    {
+      "course": "Lesson 5: Have you ever …..?",
+      "date": "05/06/2021",
+      "hour": "17:30",
+      "duration": "60 min"
+    },
+    {
+      "course": "Lesson 6: Have you ever been to….?",
+      "date": "18/06/2021",
+      "hour": "01:30",
+      "duration": "60 min"
+    },
+    {
+      "course": "Lesson 7: What did you use to do when you were a kid ?",
+      "date": "15/06/2021",
+      "hour": "01:00",
+      "duration": "60 min"
+    },
+    {
+      "course": "Lesson 8: Have you ever had a pet",
+      "date": "20/06/2021",
+      "hour": "04:00",
+      "duration": "60 min"
+    },
+    {
+      "course": "Lesson 9: School",
+      "date": "24/07/2021",
+      "hour": "11:00",
+      "duration": "60 min"
+    },
+    {
+      "course": "Lesson 10: If you…..",
+      "date": "14/08/2021",
+      "hour": "13:30",
+      "duration": "60 min"
+    },
+    {
+      "course": "Lesson 11: What do you think about…. ?",
+      "date": "30/08/2021",
+      "hour": "20:00",
+      "duration": "60 min"
+    },
+    {
+      "course": "Lesson 1 :  Introduce yourself",
+      "date": "08/09/2021",
+      "hour": "02:30",
+      "duration": "60 min"
+    }
+  ]
 }

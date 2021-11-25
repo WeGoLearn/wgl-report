@@ -78,3 +78,7 @@
 .items table th, .items table td {
   padding: 12px 16px;
 }
+
+.items table td:not(:first-child) {
+  white-space: nowrap;
+}
