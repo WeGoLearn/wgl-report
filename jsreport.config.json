@@ -35,7 +35,7 @@
   "chrome": {
     "timeout": 200000,
     "launchOptions": {
-      "args": ["--no-sandbox", "--disable-setuid-sandbox"]
+      "args": ["--no-sandbox"]
     }
   }
 }
