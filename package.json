@@ -3,8 +3,10 @@
   "main": "index.js",
   "version": "1.0.0",
   "scripts": {
-    "start": "node .",
-    "jsreport": "jsreport"
+    "serve": "node .",
+    "jsreport": "jsreport",
+    "start": "cross-env NODE_ENV=production pm2 start ./index.js",
+    "stop": "pm2 stop all"
   },
   "jsreport": {
     "entryPoint": "index.js"
@@ -16,5 +18,9 @@
     "dotenv-flow": "^3.2.0",
     "jsreport": "^3.0.1",
     "materialize": "^1.0.0"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "pm2": "^5.2.0"
   }
 }
